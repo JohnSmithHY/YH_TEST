@@ -1,0 +1,22 @@
+{
+  "name": "YH_TEST",
+  "version": "0.0.1",
+  "summary": "YH_TEST 测试信息",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/JohnSmithHY/YH_TEST",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yangguangweilou@163.com": "wywlchangbaishan@163.com"
+  },
+  "source": {
+    "git": "https://github.com/JohnSmithHY/YH_TEST.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YH_TEST/Classes/**/*"
+}
