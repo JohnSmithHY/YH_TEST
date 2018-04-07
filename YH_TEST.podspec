@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'YH_TEST'
-  s.version          = '0.0.2'
+  s.version          = '0.0.3'
   s.summary          = 'YH_TEST 修改了头文件配置'
 
   s.description      = <<-DESC
