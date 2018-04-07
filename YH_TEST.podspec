@@ -1,8 +1,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'YH_TEST'
-  s.version          = '0.0.1'
-  s.summary          = 'YH_TEST 测试信息'
+  s.version          = '0.0.2'
+  s.summary          = 'YH_TEST 修改了头文件配置'
 
   s.description      = <<-DESC
 TODO: Add long description of the pod here.
