@@ -10,6 +10,6 @@
 
 @implementation TestObj
 - (void)testLog{
-    NSLog(@"创建私有库教程");
+    NSLog(@"好久不用pod管理子工程，都生疏了。");
 }
 @end
